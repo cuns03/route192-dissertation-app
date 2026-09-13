@@ -9,8 +9,10 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
+# Global styling
 apply_global_styles()
 
+# Pages
 pages = [
     st.Page(
         "pages/1_EDA.py",
@@ -35,14 +37,22 @@ pages = [
     ),
 ]
 
-pg = st.navigation(pages, position="hidden")
+# IMPORTANT:
+# Hide Streamlit's native navigation
+pg = st.navigation(
+    pages,
+    position="hidden"
+)
 
+# Determine current page
 active_title = getattr(
     pg,
     "title",
     "Exploratory Data Analysis",
 )
 
+# Render custom Route 192 sidebar
 render_sidebar(active_title=active_title)
 
+# Run current page
 pg.run()
