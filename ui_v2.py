@@ -336,25 +336,25 @@ def render_sidebar(active_title: str):
         )
 
         st.page_link(
-            "pages/1_EDA.py",
+            "views/1_EDA.py",
             label="01  Exploratory Data Analysis (EDA)",
             icon=":material/explore:",
         )
 
         st.page_link(
-            "pages/2_Predictive_Modelling.py",
+            "views/2_Predictive_Modelling.py",
             label="02  Predictive Modelling (RQ1)",
             icon=":material/model_training:",
         )
 
         st.page_link(
-            "pages/3_Equity_Analysis.py",
+            "views/3_Equity_Analysis.py",
             label="03  Equity Analysis (RQ2)",
             icon=":material/balance:",
         )
 
         st.page_link(
-            "pages/4_Operational_Analysis.py",
+            "views/4_Operational_Analysis.py",
             label="04  Operational Analysis (RQ3)",
             icon=":material/directions_bus:",
         )
