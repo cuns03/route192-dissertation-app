@@ -1,7 +1,7 @@
 streamlit
 pandas
 numpy
-plotly
+plotly==6.8.0
 matplotlib
 scikit-learn
 xgboost
