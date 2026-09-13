@@ -1,0 +1,17 @@
+Measure,Value
+Highest direction-period P90 capacity utilisation (%),44.0
+Highest direction-period direction,Manchester to Hazel Grove
+Highest direction-period period,AM peak
+Highest segment P90 capacity utilisation (%),76.10000000000001
+Highest-load segment,48651 -> 48677
+Highest-load direction,Manchester to Hazel Grove
+Highest-load period,AM peak
+Highest P90 PMD (tonne-km),2.5737357264000003
+Highest-PMD segment,48680 -> 134267
+Highest-PMD direction,Manchester to Hazel Grove
+Highest-PMD period,AM peak
+Spearman rho: P90 load vs PMD,0.8849918725944812
+Shared Top-15 load/PMD hotspots,6
+Top-15 overlap (%),40.0
+Upper-quartile LSOA operational-pressure threshold (%),56.80000000000001
+Higher-pressure LSOAs,10

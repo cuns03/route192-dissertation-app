@@ -1,0 +1,108 @@
+stop_id,stop_name,stop_lat,stop_lon,osm_display_name
+48378,Piccadilly,53.4793964,-2.2317427,"Piccadilly, City Centre, Manchester, Greater Manchester, England, United Kingdom"
+48363,Manchester Piccadilly Rail Station,,,
+48356,Travis Street,53.4757738,-2.2290415,"Travis Street, City Centre, Manchester, Greater Manchester, England, M1 2AD, United Kingdom"
+54154,Ardwick Green Park,53.4713759,-2.223963,"Ardwick Green, Brunswick, Chorlton-on-Medlock, Manchester, Greater Manchester, England, United Kingdom"
+50424,Apollo Theatre,53.4695651,-2.2220907,"Apollo Theatre, Stockport Road, Brunswick, Chorlton-on-Medlock, Manchester, Greater Manchester, England, M12 6AP, United Kingdom"
+50430,Cavanagh Close,53.466583,-2.2197153,"Cavanagh Close, Brunswick, Ardwick, Manchester, Greater Manchester, England, M13 9DF, United Kingdom"
+50432,Devonshire Street,53.467782,-2.2164735,"Devonshire Street, Brunswick, Ardwick, Manchester, Greater Manchester, England, M12 6AG, United Kingdom"
+50434,Winterford Avenue,53.4626291,-2.2148679,"Winterford Avenue, Victoria Park, Ardwick, Manchester, Greater Manchester, England, M13 9BA, United Kingdom"
+50436,Plymouth Grove West,53.4622271,-2.2114485,"Plymouth Grove West, Victoria Park, Ardwick, Manchester, Greater Manchester, England, M13 0AG, United Kingdom"
+50438,Plymouth Grove,53.4653694,-2.2259228,"Plymouth Grove, Brunswick, Chorlton-on-Medlock, Manchester, Greater Manchester, England, United Kingdom"
+50442,Longsight Library & Learning Centre,,,
+48833,Slade Lane,53.455045,-2.1982749,"Slade Lane, Longsight, Manchester, Greater Manchester, England, M13 0SH, United Kingdom"
+48837,East Road,53.4536631,-2.1936485,"East Road, Belle Vue, Manchester, Greater Manchester, England, M12 5QY, United Kingdom"
+48657,Longden Road,53.4502721,-2.1909216,"Longden Road, Levenshulme, Manchester, Greater Manchester, England, M12 5SW, United Kingdom"
+48663,Portville Road,53.4472534,-2.1901581,"Portville Road, Levenshulme, Manchester, Greater Manchester, England, M19 3DN, United Kingdom"
+48642,Carrill Grove,53.4453583,-2.19215,"Carrill Grove, Levenshulme, Manchester, Greater Manchester, England, M19 3AE, United Kingdom"
+48669,Albert Road,,,
+48651,Delamere Road,,,
+48677,Crayfield Road,,,
+48680,Broom Lane,,,
+134267,Crossley Road,,,
+133001,McVities,,,
+135632,Langdale Road,,,
+135678,Manchester Road,,,
+135681,Heaton Moor Road,53.4236268,-2.1823097,"Heaton Moor Road, Heaton Moor, The Four Heatons, Stockport, Greater Manchester, England, SK4 4PB, United Kingdom"
+135679,Brackley Road,53.5490308,-2.4686127,"Brackley Road, Hulton Lane Ends, Bolton, Greater Manchester, England, BL5 1AS, United Kingdom"
+135682,Warwick Road,53.4433588,-2.2771997,"Warwick Road, Chorlton-cum-Hardy, Manchester, Greater Manchester, England, M21 0AU, United Kingdom"
+135680,Heaton Road,53.4351498,-2.2257124,"Heaton Road, Withington, Manchester, Greater Manchester, England, M20 4PH, United Kingdom"
+135683,Belmont Bridge,53.4165314,-2.1698475,"Heaton Norris, Wellington Road N / adjacent Belmont Bridge, Wellington Road North, Heaton Norris, The Four Heatons, Stockport, Greater Manchester, England, SK4 2HB, United Kingdom"
+135684,Belmont Way,53.5490248,-2.1324322,"Belmont Way, Stock Brook, Busk, Chadderton, Oldham, Greater Manchester, England, OL9 6SB, United Kingdom"
+135685,Kingsgate,53.5794703,-2.4323805,"Kingsgate, Halliwell, Bolton, Greater Manchester, England, BL1 1BD, United Kingdom"
+134397,Mersey Square,53.4099575,-2.1626128,"Mersey Square, Heaton Norris, Shaw Heath, Stockport, Greater Manchester, England, SK1 1RA, United Kingdom"
+134378,Grand Central,53.4060303,-2.1614391,"Stockport Exchange, Heaton Norris, Shaw Heath, Stockport, Greater Manchester, England, United Kingdom"
+135687,Stockport College,53.403286,-2.1585708,"Stockport College, Wellington Road South, Heaton Norris, Shaw Heath, Stockport, Greater Manchester, England, SK1 3UQ, United Kingdom"
+133049,Brentnall Street,53.4021902,-2.1560197,"Brentnall Street, Heaviley, Shaw Heath, Stockport, Greater Manchester, England, SK1 3QF, United Kingdom"
+135665,Longshut Lane,53.4012998,-2.1548064,"Longshut Lane, Heaviley, Shaw Heath, Stockport, Greater Manchester, England, SK1 3DW, United Kingdom"
+135666,Bramhall Lane,53.3840591,-2.1533956,"Bramhall Lane, Davenport, Bramhall, Stockport, Greater Manchester, England, SK3 8TP, United Kingdom"
+135667,Nangreave Road,53.3964155,-2.1422158,"Nangreave Road, Mile End, Heaviley, Davenport, Stockport, Greater Manchester, England, SK2 6TH, United Kingdom"
+135668,Kennerley Road,53.3924774,-2.1492943,"Kennerley Road, Heaviley, Davenport, Stockport, Greater Manchester, England, SK2 6EY, United Kingdom"
+135669,Corbar Road,53.3932115,-2.1432744,"Corbar Road, Mile End, Heaviley, Woodsmoor, Stockport, Greater Manchester, England, SK2 6EP, United Kingdom"
+135670,Woodsmoor Lane,53.3848525,-2.149769,"Woodsmoor Lane, Woodsmoor, Bramhall, Stockport, Greater Manchester, England, SK3 8TJ, United Kingdom"
+135671,Cherry Tree Lane,53.3911898,-2.1325009,"Cherry Tree Lane, Mile End, Heaviley, Offerton, Hazel Grove, Stockport, Greater Manchester, England, SK2 7PY, United Kingdom"
+135672,The Crown,53.4157097,-2.2321909,"The Crown, 770, Wilmslow Road, Parrs Wood, Northenden, Manchester, Greater Manchester, England, M20 2DR, United Kingdom"
+135673,Sainsbury's,53.4407932,-2.2179228,"Sainsbury's, 347, Wilmslow Road, Fallowfield, Manchester, Greater Manchester, England, M14 6SS, United Kingdom"
+135674,Brewers Green,,,
+135675,Commercial Road,,,
+135676,Queens Road,,,
+134165,School Street,,,
+135633,Torkington Road,,,
+135689,Hazel Grove Park & Ride,,,
+135636,Stepping Hill Hospital,,,
+134160,Mersey Square,,,
+134461,Kingsgate,,,
+135618,Belmont Way,,,
+135619,Belmont Bridge,,,
+135620,Heaton Road,,,
+134227,Warwick Road,,,
+134266,Brackley Road,,,
+133236,Heaton Moor Road,,,
+133230,St Thomas Church,,,
+133232,Milwain Drive,,,
+133234,McVities,,,
+48686,Lloyd Road,,,
+48683,Broom Lane,,,
+48675,Crayfield Road,,,
+48672,Elbow Street,,,
+48666,Carrill Grove,,,
+48660,Woodfold Avenue,,,
+48654,Longden Road,,,
+48835,East Road,,,
+48831,Slade Lane,,,
+50410,Longsight Library & Learning Centre,,,
+50414,Plymouth Grove,,,
+50416,Longsight Police Station,,,
+50418,Plymouth Grove West,,,
+50420,Winterford Avenue,,,
+50422,Devonshire Street,,,
+50428,Cavanagh Close,,,
+50426,Apollo Theatre,,,
+54156,Ardwick Green Park,,,
+54150,Grosvenor Street,,,
+48350,Travis Street,,,
+48535,Minshull Street South,,,
+50826,Minshull Street,,,
+129934,Piccadilly Gardens,,,
+135634,Norbury Church,,,
+135635,School Street,,,
+135637,Queens Road,,,
+135627,Commercial Road,,,
+134150,Mill Street,,,
+135630,Sainsbury's,,,
+135628,The Crown,,,
+135629,Cherry Tree Lane,,,
+135631,Woodsmoor Lane,,,
+135623,Corbar Road,,,
+135624,Kennerley Road,,,
+135625,Duke of York,,,
+135626,Nangreave Road,,,
+134130,Bramhall Lane,,,
+135615,Wellington Grove,,,
+135616,Brentnall Street,,,
+135617,Stockport College,,,
+134448,Grand Central,,,
+134517,Wellington Road South,,,
+134281,Garrick Theatre,,,
+135790,Chestergate,,,
+135792,Mersey Square,,,

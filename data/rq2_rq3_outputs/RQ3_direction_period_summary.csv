@@ -1,0 +1,13 @@
+Direction,detailed_time_period,observations,median_passengers,p90_passengers,p90_capacity_utilisation,p90_pmd_tkm,p90_capacity_pct
+Hazel Grove to Manchester,Night/Early morning off-peak,4084,15.0,34.0,0.34,0.7106467839999997,34.0
+Manchester to Hazel Grove,Night/Early morning off-peak,3796,9.0,21.0,0.21,0.4269626160000009,21.0
+Hazel Grove to Manchester,AM peak,5603,10.0,23.0,0.23,0.45519478800000035,23.0
+Manchester to Hazel Grove,AM peak,5024,18.0,44.0,0.44,0.9441385880000017,44.0
+Hazel Grove to Manchester,AM interpeak,8670,6.0,13.0,0.13,0.2701328016000002,13.0
+Manchester to Hazel Grove,AM interpeak,8146,10.0,24.0,0.24,0.5126772280000015,24.0
+Hazel Grove to Manchester,PM interpeak,4505,12.0,20.0,0.2,0.42749117999999947,20.0
+Manchester to Hazel Grove,PM interpeak,4126,20.0,40.0,0.4,0.8101894680000001,40.0
+Hazel Grove to Manchester,PM peak,6746,15.0,24.0,0.24,0.5165047440000001,24.0
+Manchester to Hazel Grove,PM peak,6459,19.0,37.0,0.37,0.7547409760000006,37.0
+Hazel Grove to Manchester,Evening off-peak,6195,12.0,24.0,0.24,0.4977932520000002,24.0
+Manchester to Hazel Grove,Evening off-peak,6254,5.0,13.0,0.13,0.2582331960000005,13.0

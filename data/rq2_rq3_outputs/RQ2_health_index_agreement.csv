@@ -1,0 +1,4 @@
+specification_1,specification_2,classification_agreement,classification_agreement_pct
+Combined,Census_only,0.9487179487179487,94.87179487179486
+Combined,IoD_only,0.8717948717948718,87.17948717948718
+Census_only,IoD_only,0.8205128205128205,82.05128205128204
