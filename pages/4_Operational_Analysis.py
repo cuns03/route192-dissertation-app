@@ -50,7 +50,7 @@ FILE_CANDIDATES = {
         "rq3_direction_period_summary.csv",
     ],
     "segments": [
-        "RQ3_segment_direction_period_hotspots.csv",
+        "RQ3_segment_operational_profile.csv",
         "rq3_segment_direction_period_hotspots.csv",
         "RQ3_segment_hotspots.csv",
     ],
@@ -2380,7 +2380,7 @@ st.caption(
 
 if segments is None or segments.empty:
     st.warning(
-        "Segment-level output was not found. Add `RQ3_segment_direction_period_hotspots.csv` "
+        "Segment-level output was not found. Add `RQ3_segment_operational_profile.csv` "
         "to `data/rq2_rq3_outputs/` to enable this section."
     )
 else:
@@ -3007,7 +3007,7 @@ if rank_df is None or rank_df.empty or rank_df[["p90_load", "pmd_68"]].dropna().
     st.warning(
         "Load-vs-PMD data could not be constructed. The app first looks for "
         "`RQ3_load_vs_PMD_rank_check.csv` and then automatically falls back to "
-        "`RQ3_segment_direction_period_hotspots.csv`. Please check that at least one "
+        "`RQ3_segment_operational_profile.csv`. Please check that at least one "
         "of those files contains P90 onboard load and PMD (or load + segment distance)."
     )
 else:
