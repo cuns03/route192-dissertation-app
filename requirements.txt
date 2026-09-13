@@ -1,1 +1,13 @@
+streamlit
+pandas
+numpy
 plotly
+matplotlib
+scikit-learn
+xgboost
+pydeck
+geopandas
+shapely
+requests
+folium
+streamlit-folium
